@@ -14,7 +14,8 @@
   <a href="https://web.whatsapp.com/">
     <img src="https://img.shields.io/badge/whatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsApp Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=anniraz&style=flat-square&color=blue" alt=""/>
 
 </div>
+    <img src="https://komarev.com/ghpvc/?username=anniraz&style=flat-square&color=blue" alt=""/>
+
 </div>
