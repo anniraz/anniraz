@@ -6,6 +6,24 @@
 ### :woman_technologist: I am :
 a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kyrgyzstan.
 
+    
+ <a href="https://t.me/annniraz">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://www.instagram.com/kudayberdievas_/">
+    <img src="https://img.shields.io/badge/INstagram-violet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://web.whatsapp.com/">
+    <img src="https://img.shields.io/badge/whatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsApp Badge"/>
+  </a>
+</div>
+    <img src="https://komarev.com/ghpvc/?username=anniraz&style=flat-square&color=blue" alt=""/>
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    
+    
+    
 ### :hammer_and_wrench: Languages and Tools :
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" title="Django" alt="Dango" width="40" height="40"/>&nbsp;
