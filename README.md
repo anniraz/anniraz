@@ -1,6 +1,6 @@
 
 
-<div id="badges" style="width:900px">
+<div id="badges" width="900">
 
   <h1>
   hey there
