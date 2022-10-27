@@ -40,10 +40,10 @@ a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redis/redis-original-wordmark.svg" title="redis" **alt="redis" width="40" height="40"/>   
   
   
-  
+<div>  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anniraz&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anniraz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+  </div>
   
   
 </div>
