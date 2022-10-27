@@ -43,9 +43,9 @@ a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 
   
-  <div width="100px">
+  <div width="1000px">
   
-  <div width="10px"
+  <div width="100px"
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anniraz&theme=dark)](https://git.io/streak-stats)
 <div/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anniraz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
