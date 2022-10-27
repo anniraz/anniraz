@@ -43,7 +43,7 @@ a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 
   
-  <div style="margin:0; padding:0;width:100%;display:block">
+  <div width="1000px">
   
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anniraz&theme=dark)](https://git.io/streak-stats)
