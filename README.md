@@ -1,6 +1,6 @@
 
 
-<div id="badges" style="padding:0">
+<div id="badges" >
 
   <h1>
   hey there
@@ -45,7 +45,7 @@ a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
   
   
 </div>
-<div>
+<div style="margin:0; padding:0">
   
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anniraz&theme=dark)](https://git.io/streak-stats)
