@@ -1,6 +1,6 @@
 
 
-<div id="badges">
+<div id="badges" style="padding:0">
 
   <h1>
   hey there
