@@ -46,8 +46,8 @@ a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
   <div style="margin:0; padding:0;width:100%;display:block">
   
   
-[[GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anniraz&theme=dark)](https://git.io/streak-stats)
-[[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anniraz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anniraz&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anniraz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div> 
 </div>
  
