@@ -20,7 +20,7 @@ a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
     <img src="https://img.shields.io/badge/whatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsApp Badge"/>
   </a>
 </div>
-    <img src="https://komarev.com/ghpvc/?username=anniraz&style=flat-square&color=blue" alt=""/>
+   
 
     
     
