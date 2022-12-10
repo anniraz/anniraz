@@ -16,7 +16,7 @@ a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
   <a href="https://www.instagram.com/kudayberdievas_/">
     <img src="https://img.shields.io/badge/INstagram-violet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://web.whatsapp.com/">
+  <a href="https://wa.me/706702525">
     <img src="https://img.shields.io/badge/whatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsApp Badge"/>
   </a>
 </div>
