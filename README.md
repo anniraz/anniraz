@@ -40,7 +40,7 @@ a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redis/redis-original-wordmark.svg" title="redis" **alt="redis" width="40" height="40"/>   
   
   
-
+  <div></div>
 
   
   <div width="1000px">
